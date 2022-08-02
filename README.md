@@ -2,6 +2,7 @@
 # By Akshay V Kaushik, Harsha D, Abhaya Simha S P
 
 Bill Splitter is a Mobile Application built on Android Studio and java. 
+It is a demonstration of the Algorithm that I designed and developed to minimize the number of transactions when splitting a bill. 
 
 This is an Application that makes the splitting of bill among a group much easier, faster and simpler.
 
