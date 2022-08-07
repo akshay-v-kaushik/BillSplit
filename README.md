@@ -1,6 +1,5 @@
 # BillSplit
-# By Akshay V Kaushik, Harsha D, Abhaya Simha S P
-
+# By Akshay V Kaushik
 Bill Splitter is a Mobile Application built on Android Studio and java. 
 It is a demonstration of the Algorithm that I designed and developed to minimize the number of transactions when splitting a bill using Knapsack algorithm as our inspiration. 
 
